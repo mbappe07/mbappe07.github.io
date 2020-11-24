@@ -1,0 +1,3 @@
+[1017/115005.524:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+[1017/115005.535:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Jasmin\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\5cf8b618-071c-41f4-b4b2-8a782b3b8a50: Le chemin d’accès spécifié est introuvable. (0x3)
+[1017/115005.535:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Jasmin\AppData\Roaming\Brackets\live-dev-profile\Crashpad\attachments\2af464cd-81c8-408b-b984-22e24ad8f5bd: Le chemin d’accès spécifié est introuvable. (0x3)
